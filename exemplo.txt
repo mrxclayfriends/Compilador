@@ -1,0 +1,9 @@
+begin
+    int a, b;
+    float c;
+    a = 5;
+    b = a + 10;
+    c = 7.5;
+    output(b);
+    output(c);
+end

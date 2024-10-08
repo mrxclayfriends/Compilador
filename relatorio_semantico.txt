@@ -1,0 +1,14 @@
+Relatório de Análise
+Erros encontrados:
+Erro: Variável 'a=5;' usada antes de ser declarada.
+Erro: Variável 'b=a+10;' usada antes de ser declarada.
+Erro: Variável 'c=7.5;' usada antes de ser declarada.
+Erro: Comando de saída mal formado, sem expressão.
+Erro: Comando de saída mal formado, sem expressão.
+
+Declarações:
+Variável 'a' foi declarada com sucesso.
+Variável 'b' foi declarada com sucesso.
+Variável 'c' foi declarada com sucesso.
+
+Atribuições:
